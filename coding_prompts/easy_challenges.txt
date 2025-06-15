@@ -1,0 +1,98 @@
+Name:ReverseString
+Description:Write a function that reverses a given string.
+
+Name:FactorialNumber
+Description:Calculate the factorial of a non-negative integer.
+
+Name:CheckPalindrome
+Description:Determine if a given string is a palindrome.
+
+Name:FizzBuzz
+Description:Print numbers from 1 to 100. For multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
+
+Name:SumOfArray
+Description:Calculate the sum of all elements in an array of integers.
+
+Name:FindMaxElement
+Description:Find the largest element in an array of integers.
+
+Name:IsPrime
+Description:Check if a given number is prime.
+
+Name:FibonacciSequence
+Description:Generate the first N numbers in the Fibonacci sequence.
+
+Name:CountVowels
+Description:Count the number of vowels in a given string.
+
+Name:FindMissingNumber
+Description:Given an array containing n distinct numbers taken from 0, 1, ..., n, find the one that is missing from the array.
+
+Name:ValidParentheses
+Description:Determine if the input string has valid parentheses.
+
+Name:MergeSortedArrays
+Description:Merge two sorted arrays into a single sorted array.
+
+Name:RemoveDuplicatesSortedArray
+Description:Remove duplicates from a sorted array in-place such that each element appears only once.
+
+Name:BinarySearch
+Description:Implement binary search on a sorted array.
+
+Name:MiddleOfLinkedList
+Description:Find the middle node of a singly linked list.
+
+Name:IntersectionOfTwoArrays
+Description:Find the intersection of two arrays.
+
+Name:BestTimeToBuyAndSellStock
+Description:Given an array, find the maximum profit by buying and selling stock once.
+
+Name:SingleNumber
+Description:Given a non-empty array of integers, every element appears twice except for one. Find that single one.
+
+Name:MoveZeroes
+Description:Move all zeroes to the end of an array while maintaining the relative order of the non-zero elements.
+
+Name:PlusOne
+Description:Given a non-negative integer represented as a non-empty array of digits, plus one to the integer.
+
+Name:ContainsDuplicate
+Description:Given an array of integers, find if the array contains any duplicates.
+
+Name:PowerOfThree
+Description:Given an integer n, return true if it is a power of three. Otherwise, return false.
+
+Name:RomanToInteger
+Description:Convert a Roman numeral to an integer.
+
+Name:ReverseInteger
+Description:Reverse digits of an integer.
+
+Name:PalindromeNumber
+Description:Determine whether an integer is a palindrome.
+
+Name:ClimbingStairs
+Description:Calculate the number of distinct ways to climb to the top of n stairs.
+
+Name:BinaryTreeInorderTraversal
+Description:Implement an inorder traversal of a binary tree.
+
+Name:SymmetricTree
+Description:Determine if a binary tree is symmetric.
+
+Name:MaximumDepthOfBinaryTree
+Description:Find the maximum depth of a binary tree.
+
+Name:ConvertSortedArrayToBinarySearchTree
+Description:Convert a sorted array to a height-balanced binary search tree.
+
+Name:PathSum
+Description:Determine if there is a root-to-leaf path in a binary tree such that adding up all the values along the path equals a given sum.
+
+Name:HouseRobber
+Description:Determine the maximum amount of money you can rob tonight without alerting the police.
+
+Name:CountingBits
+Description:For a non negative integer num, count the number of 1's in their binary representation for each number in the range [0, num] and return them as an array.

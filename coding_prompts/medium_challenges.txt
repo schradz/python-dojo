@@ -1,0 +1,197 @@
+Name:TwoSum
+Description:Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
+Name:LongestCommonPrefix
+Description:Find the longest common prefix string amongst an array of strings.
+
+Name:ImplementQueueUsingStacks
+Description:Implement a queue using two stacks.
+
+Name:ImplementStackUsingQueues
+Description:Implement a stack using two queues.
+
+Name:ReverseLinkedList
+Description:Reverse a singly linked list.
+
+Name:DetectCycleLinkedList
+Description:Detect if a cycle exists in a singly linked list.
+
+Name:DeleteNodeInLinkedList
+Description:Delete a node in a singly linked list, given only access to that node.
+
+Name:RotateArray
+Description:Rotate an array to the right by k steps.
+
+Name:MaximumSubarray
+Description:Find the contiguous subarray within an array of numbers (containing at least one number) which has the largest sum.
+
+Name:CountPrimes
+Description:Count the number of prime numbers less than a non-negative number, n.
+
+Name:IntegerToRoman
+Description:Convert an integer to a Roman numeral.
+
+Name:LongestSubstringWithoutRepeatingCharacters
+Description:Find the length of the longest substring without repeating characters.
+
+Name:AddTwoNumbers
+Description:You are given two non-empty linked lists representing two non-negative integers. Add the two numbers and return the sum as a linked list.
+
+Name:ZigzagConversion
+Description:Convert a string into a zigzag pattern on a given number of rows.
+
+Name:StringtoInteger
+Description:Implement the atoi function, converting a string to an integer.
+
+Name:ContainerWithMostWater
+Description:Find two lines that together with the x-axis form a container, such that the container contains the most water.
+
+Name:ThreeSum
+Description:Find all unique triplets in the array which gives the sum of zero.
+
+Name:RemoveNthNodeFromEndOfList
+Description:Remove the Nth node from the end of a linked list and return its head.
+
+Name:ValidSudoku
+Description:Determine if a Sudoku board is valid.
+
+Name:SearchInRotatedSortedArray
+Description:Search for a target value in a rotated sorted array.
+
+Name:CombinationsSum
+Description:Find all unique combinations in candidates where the candidate numbers sum to target.
+
+Name:JumpGame
+Description:Determine if you are able to reach the last index starting from the first index in an array.
+
+Name:MergeIntervals
+Description:Given a collection of intervals, merge all overlapping intervals.
+
+Name:UniquePaths
+Description:Calculate the number of unique paths from the top-left corner to the bottom-right corner of a grid.
+
+Name:MinPathSum
+Description:Find the minimum path sum in a grid.
+
+Name:SimplifyPath
+Description:Simplify a given absolute path for a Unix-style file system.
+
+Name:SetMatrixZeroes
+Description:Given an m x n matrix, if an element is 0, set its entire row and column to 0. Do it in-place.
+
+Name:SortColors
+Description:Sort an array of 0s, 1s, and 2s in-place.
+
+Name:WordSearch
+Description:Determine if a word exists in a m x n grid of letters.
+
+Name:ValidBinarySearchTree
+Description:Determine if a given binary tree is a valid Binary Search Tree (BST).
+
+Name:BinaryTreeLevelOrderTraversal
+Description:Perform a level order traversal of a binary tree.
+
+Name:FlattenBinaryTreeToLinkedList
+Description:Flatten a binary tree into a linked list in-place.
+
+Name:PopulatingNextRightPointersInEachNode
+Description:Populate each next pointer to point to its next right node in a perfect binary tree.
+
+Name:SumRootToLeafNumbers
+Description:Given a binary tree containing digits from 0-9, each root-to-leaf path represents a number. Find the total sum of all root-to-leaf numbers.
+
+Name:WordBreak
+Description:Given a non-empty string s and a dictionary wordDict containing a list of non-empty words, determine if s can be segmented into a space-separated sequence of one or more dictionary words.
+
+Name:LinkedListCycleII
+Description:Given a linked list, return the node where the cycle begins. If there is no cycle, return null.
+
+Name:LongestIncreasingSubsequence
+Description:Find the length of the longest increasing subsequence in an unsorted array of integers.
+
+Name:CoinChange
+Description:You are given coins of different denominations and a total amount of money. Write a function to compute the fewest number of coins that you need to make up that amount.
+
+Name:NumberOfIslands
+Description:Given a 2D grid map of '1's (land) and '0's (water), count the number of islands.
+
+Name:ProductOfArrayExceptSelf
+Description:Given an array nums of n integers where n > 1, return an array output such that output[i] is equal to the product of all the elements of nums except nums[i].
+
+Name:SearchA2DMatrixII
+Description:Write an efficient algorithm that searches for a value in an m x n matrix. This matrix has the following properties: Integers in each row are sorted in ascending order. Integers in each column are sorted in ascending order.
+
+Name:ImplementTrie
+Description:Implement a Trie (Prefix Tree).
+
+Name:KthSmallestElementInABST
+Description:Given a binary search tree, find the kth smallest element in it.
+
+Name:Permutations
+Description:Given a collection of distinct integers, return all possible permutations.
+
+Name:RotateImage
+Description:Rotate an n × n 2D matrix by 90 degrees (clockwise).
+
+Name:GroupAnagrams
+Description:Given an array of strings, group anagrams together.
+
+Name:MaximumProductSubarray
+Description:Find the contiguous subarray within an array (containing at least one number) which has the largest product.
+
+Name:MinStack
+Description:Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+
+Name:EvaluateReversePolishNotation
+Description:Evaluate the value of an arithmetic expression in Reverse Polish Notation.
+
+Name:HouseRobberII
+Description:You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed. All houses are arranged in a circle.
+
+Name:PerfectSquares
+Description:Given a positive integer n, find the least number of perfect square numbers which sum to n.
+
+Name:QueueReconstructionByHeight
+Description:Suppose you have a random list of people standing in a queue. Each person is described by a pair of integers (h, k), where h is the height of the person and k is the number of people in front of this person who have a height greater than or equal to h. Reconstruct the queue.
+
+Name:TopKFrequentElements
+Description:Given a non-empty array of integers, return the k most frequent elements.
+
+Name:FindAllDuplicatesInAnArray
+Description:Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear once. Find all the elements that appear twice in this array.
+
+Name:Subsets
+Description:Given a set of distinct integers, return all possible subsets (the power set).
+
+Name:DecodeWays
+Description:A message containing letters from A-Z is being encoded to numbers using the following mapping: 'A' -> 1, 'B' -> 2, ..., 'Z' -> 26. Given a non-empty string containing only digits, determine the total number of ways to decode it.
+
+Name:UniqueBinarySearchTrees
+Description:Given n, how many structurally unique BST's (binary search trees) that store values 1 ... n are there?
+
+Name:LongestPalindromicSubstring
+Description:Given a string s, find the longest palindromic substring in s.
+
+Name:DecodeStrings
+Description:Given an encoded string, return its decoded string. The encoding rule is: k[encoded_string], where the encoded_string inside the square brackets is repeated k times.
+
+Name:MeetingRoomsII
+Description:Given an array of meeting time intervals consisting of start and end times [[s1,e1],[s2,e2],...], find the minimum number of conference rooms required.
+
+Name:GraphValidTree
+Description:Given n nodes labeled from 0 to n-1 and a list of undirected edges, write a function to check whether these edges make up a valid tree.
+
+Name:DesignTicTacToe
+Description:Design a Tic-tac-toe game that is played between two players on an n x n grid.
+
+Name:FindTheDuplicateNumber
+Description:Given an array nums containing n + 1 integers where each integer is between 1 and n (inclusive), prove that at least one duplicate number must exist. Assume that there is only one duplicate number, find the duplicate one.
+
+Name:LongestSubstringWithAtMostKDistinctCharacters
+Description:Given a string s and an integer k, return the length of the longest substring t of s that contains at most k distinct characters.
+
+Name:ReorganizeString
+Description:Given a string S, check if the letters can be rearranged so that two characters that are adjacent to each other are not the same.
+
+Name:CourseSchedule
+Description:There are a total of numCourses courses you have to take, labeled from 0 to numCourses-1. You are given an array prerequisites where prerequisites[i] = [ai, bi] indicates that you must take course bi first if you want to take course ai. Return true if you can finish all courses. Otherwise, return false.
