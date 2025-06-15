@@ -1,5 +1,6 @@
 import unittest
 from unittest.mock import patch
+from dojo_challenge import *
 
 class TestDojoChallenges(unittest.TestCase):
     '''Tests for dojo_challenges.py'''
@@ -24,12 +25,12 @@ class TestDojoChallenges(unittest.TestCase):
         self.assertEqual(user_difficulty, "hard")
 
     
-    patch('builtins.input', return_value="eay")
+    @patch('builtins.input', return_value="eay")
     def test_get_user_difficulty_typo(self, mock_input):
         '''Does user input with typo report error'''
         user_difficulty = get_user_difficulty()
         self.assertEqual(user_difficulty, "error")
 
-        
+
 if __name__ == "__main__":
     unittest.main()
