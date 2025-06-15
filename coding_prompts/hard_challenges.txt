@@ -1,0 +1,62 @@
+Name:LongestConsecutiveSequence
+Description:Find the length of the longest consecutive elements sequence in an unsorted array of integers.
+
+Name:ConstructBinaryTreeFromPreorderAndInorderTraversal
+Description:Construct a binary tree from its preorder and inorder traversal.
+
+Name:SlidingWindowMaximum
+Description:Given an array nums, there is a sliding window of size k which moves from the very left to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position. Return the max sliding window.
+
+Name:WordLadder
+Description:Given two words (beginWord and endWord), and a dictionary's word list, find the length of shortest transformation sequence from beginWord to endWord.
+
+Name:MedianOfTwoSortedArrays
+Description:Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
+
+Name:LongestValidParentheses
+Description:Given a string containing just the characters '(' and ')', find the length of the longest valid (well-formed) parentheses substring.
+
+Name:TrappingRainWater
+Description:Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
+
+Name:SudokuSolver
+Description:Write a program to solve a Sudoku puzzle by filling the empty cells.
+
+Name:NQueens
+Description:Solve the N-Queens puzzle to place N queens on an N×N chessboard such that no two queens attack each other.
+
+Name:DungeonGame
+Description:Given a m x n grid, find the minimum initial health a knight must have to rescue the princess.
+
+Name:WildcardMatching
+Description:Implement wildcard pattern matching with ? and *.
+
+Name:ScrambleString
+Description:Given two strings s1 and s2 of the same length, determine if s2 is a scramble string of s1.
+
+Name:EditDistance
+Description:Given two words word1 and word2, find the minimum number of operations required to convert word1 to word2.
+
+Name:MaximumRectangle
+Description:Given a rows x cols binary matrix filled with 0's and 1's, find the largest rectangle containing only 1's and return its area.
+
+Name:MinimumWindowSubstring
+Description:Given two strings s and t, find the minimum window in s which will contain all the characters in t.
+
+Name:RegularExpressionMatching
+Description:Implement regular expression matching with support for . and *.
+
+Name:LongestIncreasingPathInAMatrix
+Description:Given an m x n integers matrix, return the length of the longest increasing path in the matrix.
+
+Name:SerializeAndDeserializeBinaryTree
+Description:Design an algorithm to serialize and deserialize a binary tree.
+
+Name:BasicCalculator
+Description:Implement a basic calculator to evaluate a simple expression string.
+
+Name:ShortestDistanceFromAllBuildings
+Description:You want to build a house on an empty land which reaches all buildings in the shortest amount of distance. Find the shortest total travel distance you can travel to all buildings.
+
+Name:AlienDictionary
+Description:There is a new alien language which uses the Latin alphabet. However, the order among letters are unknown to you. You receive a list of non-empty words from the dictionary, where words are sorted lexicographically by the rules of this new language. Derive the order of letters in this language.
